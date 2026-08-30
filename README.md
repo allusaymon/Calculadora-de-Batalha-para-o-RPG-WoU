@@ -12,7 +12,7 @@
 
 ---
 
-### <p align='center'> To-do: </p>
+### <p align='center'> Conteúdos utilizados: </p>
 
 - :white_check_mark: Tipos primitivos (```char, short, int, float, etc.```)
 - :white_check_mark: Condicionais (```if, else, else if```)
@@ -22,21 +22,21 @@
 - :white_check_mark: Strings (array de chars e ```strcmp()```)
 - :white_check_mark: Funções
 - :white_check_mark: Ponteiros (```* e &```)
-- :x: Structs e typedef
-- :clock2: Enums
-- :clock2: Unions
-- :x: Alocação na heap (```malloc(), calloc(), realloc() e free()```)
-- :x: I/O arquivos (```fread(), fwrite(), fseek(), etc...```)
 - :white_check_mark: Bibliotecas (```#include <stdio.h>, #include <string.h>```)
-- :x: Diretivas (```#include, #ifndef, #error, #pragma, etc```)
+- :x: Enums
+- :x: Unions
+- :x: Structs e typedef
+- :x: Alocação na heap
+- :x: I/O arquivos 
+- :x: Diretivas 
 - :x: Makefiles (automação de compilação)
 - :x: GCC (compilador)
 - :x: Debugs e testes
 - :x: Macros
 - :x: <stdarg.h>
-- :x: Bitwise (```<<, >>, ~, ^```)
-- :x: <unistd.h> (```linux```)
+- :x: Bitwise 
+- :x: <unistd.h>
 - :x: <threads.h>
-- :x: Bare-metal (`Sem OS, com C e assembly`)
+- :x: Bare-metal
 
 ----
