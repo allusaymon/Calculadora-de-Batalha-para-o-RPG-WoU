@@ -26,10 +26,10 @@ Caso o resultado da batalha, ou seja, a subtração entre a "Força" Atacante e 
 - Normal(-X)-Bom( _ )-Perfeito( _ )-Extremo(X/4) = Gerar uma sequência periódica e coerente entre Normal e Extremo, onde os danos "Bom" e "Perfeitos" são maiores que o Normal, mas menores que o Extremo.
 
 Para o caso do atributo de Velocidade, funciona desta forma:
-Diferença de Velocidade: Em alguns combates, quem tiver maior pontuação no atributo "velocidade" pode ganhar vantagem, dependendo do quão alto o valor é em comparação ao seu adversário. São:
-Entre 1~25: Você consegue atacar primeiro, contanto que não falhe. Isso faz toda diferença em momentos acirrados nos outros dois atributos. Se o adversário falhar, você ganha direito a mais um turno.
-Entre 26~50: Você ataca primeiro e é capaz de ter 1 turno extra adicional antes que chegue na vez do adversário, caso o adversário atinja "normal", com você tirando classificação superior. Nesta ocasião, o adversário apenas enxerga uma miragem de velocidade.
-Entre 51~75: O adversário apenas vê um vulto passando, devido seu olho não estar acostumado. 
+Diferença de Velocidade - Em alguns combates, quem tiver maior pontuação no atributo "velocidade" pode ganhar vantagem, dependendo do quão alto o valor é em comparação ao seu adversário. São:
+1. Entre 1 ~ 25: Você consegue atacar primeiro, contanto que não falhe. Isso faz toda diferença em momentos acirrados nos outros dois atributos. Se o adversário falhar, você ganha direito a mais um turno.
+2. Entre 26 ~ 50: Você ataca primeiro e é capaz de ter 1 turno extra adicional antes que chegue na vez do adversário, caso o adversário atinja "normal", com você tirando classificação superior. Nesta ocasião, o adversário apenas enxerga uma miragem de velocidade.
+3. Entre 51 ~ 75: O adversário apenas vê um vulto passando, devido seu olho não estar acostumado. 
 
 #### Se fosse para traçar um cronograma de progresso, meu objetivo com este projeto é:
 1. Criar uma calculadora funcional que opere sob estas circunstâncias.
