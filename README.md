@@ -2,7 +2,8 @@
 
 ---
 
->>>### Objetivo: Algoritmo desenvolvido em C para automatizar e otimizar os cálculos de dano e velocidade do meu sistema de RPG de mesa medieval WoU (aWakening of United Front). O objetivo foi eliminar a necessidade de realizar cálculos manuais complexos a cada turno, gerenciando automaticamente as diferenças de atributos (força, defesa e velocidade), multiplicadores de dano (Normal, Bom, Perfeito e Extremo) e modificadores de habilidades e magias dos personagens. Com este projeto, planejava consolidar meus conhecimentos em lógica de programação na linguagem C, manipulando variáveis, estruturas condicionais, loops, ponteiros e manipulação de strings.
+>>>### Objetivo: Algoritmo desenvolvido em C para automatizar e otimizar os cálculos de dano e velocidade do meu sistema de RPG de mesa medieval WoU (aWakening of United Front).
+>>>O objetivo foi eliminar a necessidade de realizar cálculos manuais complexos a cada turno, gerenciando automaticamente as diferenças de atributos (força, defesa e velocidade), multiplicadores de dano (Normal, Bom, Perfeito e Extremo) e modificadores de habilidades e magias dos personagens. Com este projeto, planejava consolidar meus conhecimentos em lógica de programação na linguagem C, manipulando variáveis, estruturas condicionais, loops, ponteiros e manipulação de strings.
 
 
 <br>
