@@ -16,14 +16,14 @@
 ### Conceito do Projeto e Progresso:
 ### Uma vez que cada ficha possuía 3 valores denominados de "Força", "Defesa" e "Velocidade" e modificadores que aumentam ou reduzem esses valores em diferentes tipos de batalha, o cálculo era fácil e intuitivo, mas demandava tempo conforme a quantidade de modificadores aumentavam. Portanto, em uma madrugada, criei a lógica desse algoritmo que iria me espelhar para concretizar meu objetivo:
 **Sistema de Batalha**:
-FOR (Sua) - DEF (Oponente) = X (Dano Normal que será desferido ao oponente)
-2X = Extremo
-Normal(X)-Bom( _ )-Perfeito( _ )-Extremo(2X) = Gerar uma sequência periódica e coerente entre Normal e Extremo, onde os danos "Bom" e "Perfeitos" são maiores que o Normal, mas menores que o Extremo.
+- FOR (Sua) - DEF (Oponente) = X (Dano Normal que será desferido ao oponente)
+- 2X = Extremo
+- Normal(X)-Bom( _ )-Perfeito( _ )-Extremo(2X) = Gerar uma sequência periódica e coerente entre Normal e Extremo, onde os danos "Bom" e "Perfeitos" são maiores que o Normal, mas menores que o Extremo.
 
 Caso o resultado da batalha, ou seja, a subtração entre a "Força" Atacante e a "Defesa" Oponente seja -X (um número negativo), o cálculo mudará para:
--X = Normal;
-X/4 = Extremo;
-Normal(-X)-Bom( _ )-Perfeito( _ )-Extremo(X/4) = Gerar uma sequência periódica e coerente entre Normal e Extremo, onde os danos "Bom" e "Perfeitos" são maiores que o Normal, mas menores que o Extremo.
+- -X = Normal
+- X/4 = Extremo
+- Normal(-X)-Bom( _ )-Perfeito( _ )-Extremo(X/4) = Gerar uma sequência periódica e coerente entre Normal e Extremo, onde os danos "Bom" e "Perfeitos" são maiores que o Normal, mas menores que o Extremo.
 
 Para o caso do atributo de Velocidade, funciona desta forma:
 Diferença de Velocidade: Em alguns combates, quem tiver maior pontuação no atributo "velocidade" pode ganhar vantagem, dependendo do quão alto o valor é em comparação ao seu adversário. São:
