@@ -72,3 +72,8 @@ Diferença de Velocidade - Em alguns combates, quem tiver maior pontuação no a
 - :x: Bare-metal
 
 ----
+### <p align='center'> Glossário de termos do algoritmo: </p>
+- Variação: Poder dado somente aos personagens dos jogadores no qual consiste em alterar o formato da arma dominante e atribuir um efeito adicional nela, influenciando alguns dos 3 atributos.
+- Magia: Poder dado a todos os personagens do RPG no qual consiste em quebrar a lei de conservação de energia e cria através da energia física alguma manifestação direta nos 3 atributos com base nos 4 elementos da natureza
+- Eredin, Fohl, Megumin e Meruem são os nomes dos personagens Suportes.
+
